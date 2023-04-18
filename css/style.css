@@ -1,0 +1,48 @@
+body{
+ margin: 0;
+ padding: 0;
+ overflow-x: hidden;
+ height: 100vh;
+ background: #111;
+}
+
+html, body {
+ overflow-x: hidden;
+}
+body {
+ position: relative;
+}
+.wrapper{
+  height: 40rem;
+  margin: 3rem;
+  background-c
+  border-radius: 0.5rem;
+}
+.title{
+  color: #FF6A00;
+font-family: 'Russo One', sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  padding-left: -2vw;
+  width: 100%;
+  background-color: #111;
+  text-shadow: 0.5rem 0.5rem 3rem;
+
+}
+.text{
+  font-family: 'Comfortaa', cursive;
+background-color: white;
+   font-size: 1.8rem;
+   padding: 1rem;
+   max-width: 19rem;
+   border-radius: 1rem;
+   box-shadow: 0.1rem 0.1rem 2rem black;
+}
+.books{
+  background-color: #FF6A00;
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  margin-top: 6.5rem;
+  font-size: 3rem;
+
+}
